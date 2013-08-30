@@ -5,7 +5,7 @@ date:   2013-08-28 11:00:00
 categories: jekyll update
 ---
 
-Quem nunca teve um projeto e precisou criar uma página o explicando melhor ou precisou detalhar uma documentação de como usá-lo? Porém quando pensamos em fazer isso a primeira coisa que passa  na nossa cabeça é: Criar um "blog" (hummmm) ou temos que criar um site, e ai começa toda a burocracia: registrar domínio, contratar hospedagem e finalmente criar o site do projeto. Quantos passos eim? Fora o fato de você ainda ter que montar o HTML para que a sua página fique "legal". 
+Quem nunca teve um projeto e precisou criar uma página o explicando melhor ou precisou detalhar uma documentação de como usá-lo? Porém quando pensamos em fazer isso o primeiro pensamento que passa  na nossa cabeça é: Criar um "blog"ou criar um site, e ai começa toda a burocracia: registrar domínio, contratar hospedagem e finalmente criar o site do projeto. Quantos passos eim? Fora o fato de você ainda ter que montar o HTML para que a sua página fique "legal". 
 
 -
 
@@ -85,8 +85,12 @@ Se você quiser utilizar o Jekyll para um projeto em ee quiser se aprofundar mai
 
 -
 
-Simples não? Isso que vimos é apenas a ponta do "Iceberg", o Jekyll é muito mais do que isso, você pode fazer mais com ele: como usar seu proprio dominio ao invés do github.io, alterar o css e muitas outras coisas. Se quiser se aprofundar mais no Jekyll... Claro o melhor lugar é ir na [documentação](http://jekyllrb.com/docs/home/). Então pessoal, é isso. Se quiserem tirar alguma dúvida dando uma olhada nesse projeto, é só acessar [https://github.com/filipemonteiroth/filipemonteiroth.github.io](https://github.com/filipemonteiroth/filipemonteiroth.github.io).
+Simples não? Isso que vimos é apenas a ponta do "Iceberg", o Jekyll é muito mais do que isso, você também pode: usar seu proprio dominio ao invés do github.io, alterar o css dentre muitas outras funciolidades legais. Se quiser se aprofundar mais no Jekyll... Claro o melhor lugar é ir na [documentação](http://jekyllrb.com/docs/home/). Então pessoal, é isso. Se quiserem tirar alguma dúvida dando uma olhada nesse projeto, é só acessar [https://github.com/filipemonteiroth/filipemonteiroth.github.io](https://github.com/filipemonteiroth/filipemonteiroth.github.io).
 
 -
 
-Aguardem mais posts da JavaCE e compartilhem!
+Aguardem o próximo Post da JavaCE
+
+-
+
+__Configurando seus projetos utilizando Gradle__
