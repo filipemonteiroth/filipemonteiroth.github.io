@@ -89,8 +89,4 @@ Simples não? Isso que vimos é apenas a ponta do "Iceberg", o Jekyll é muito m
 
 -
 
-Aguardem o próximo Post da JavaCE
-
--
-
-__Configurando seus projetos utilizando Gradle__
+Aguardem os próximos Posts da JavaCE.
