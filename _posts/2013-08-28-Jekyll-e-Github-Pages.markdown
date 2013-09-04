@@ -81,7 +81,7 @@ Pronto, após isso feito, suba o projeto que você construiu utilizando o Jekyll
 
 -
 
-Se você quiser utilizar o Jekyll para um projeto em ee quiser se aprofundar mais nospecífico o processo é um pouco mais "complicado", mas não é nada "de mais". Apenas no seu projeto crie uma branch chamada __gh-pages__ e suba o seu projeto em jekyll lá e prontinho, você então já pode acessar: USUARIO.github.io/Nome do seu Projeto.
+Se você quiser utilizar o Jekyll para um projeto o processo é um pouco diferente. Crie no seu projeto uma branch chamada __gh-pages__ e suba o seu projeto em jekyll lá e prontinho, você então já pode acessar: USUARIO.github.io/Nome do seu Projeto.
 
 -
 
