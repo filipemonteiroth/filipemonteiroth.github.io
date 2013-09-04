@@ -73,15 +73,15 @@ Existem duas formas de integrar seu blog jekyll com o Github, Primeira, você po
 
 Para criar o seu blog com Jekyll para sua conta, é necessário que você crie um repositório no github com o seguinte nome:
 
-USUARIO.github.io - _No meu caso filipemonteiroth.github.io_
+__usuario__.github.io - _No meu caso filipemonteiroth.github.io_
 
 -
 
-Pronto, após isso feito, suba o projeto que você construiu utilizando o Jekyll para a branch master desse projeto, espere alguns minutos e acesse: USUARIO.github.io.... __TCHANRAM__ o Github publicou suas páginas! :D
+Pronto, após isso feito, suba o projeto que você construiu utilizando o Jekyll para a branch master desse projeto, espere alguns minutos e acesse: __usuario__.github.io.... __TCHANRAM__ o Github publicou suas páginas! :D
 
 -
 
-Se você quiser utilizar o Jekyll para um projeto o processo é um pouco diferente. Crie no seu projeto uma branch chamada __gh-pages__ e suba o seu projeto em jekyll lá e prontinho, você então já pode acessar: USUARIO.github.io/Nome do seu Projeto.
+Se você quiser utilizar o Jekyll para um projeto o processo é um pouco diferente. Crie no seu projeto uma branch chamada __gh-pages__ e suba o seu projeto em jekyll lá e prontinho, você então já pode acessar: __usuario__.github.io/Nome do seu Projeto.
 
 -
 
